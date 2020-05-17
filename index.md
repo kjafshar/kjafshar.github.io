@@ -1,8 +1,6 @@
 ## About
 
-My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my masters from the University of San Francisco and am seeking employment in the Data Science and Analytics fields.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my Masters of Science in Data Science from the University of San Francisco and am seeking employment in the Data Science and Analytics fields.
 
 ## Resume
 
