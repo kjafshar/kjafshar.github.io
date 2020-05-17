@@ -4,7 +4,7 @@ My name is Kamron John Afshar and I am a growing data scientist. I've recently c
 
 ## Resume
 
-Click here for a link to my [resume](https://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing)
+Click here for a link to my ![resume](https://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing)
 
 You can find me a the links below:
 - LinkedIn
