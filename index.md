@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/kjafshar/kjafshar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my masters from the University of San Francisco and am seeking employment in the Data Science and Analytics fields.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Resume
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Click here for a link to my ![resume](https://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing)
 ```markdown
 Syntax highlighted code block
 
@@ -34,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact 
