@@ -50,7 +50,7 @@ Check out the code [here](https://github.com/kjafshar/scraping_muni_codes)
 
 During my courses in Machine Learning I built a random forest regressor and classifier using numpy and object oriented python. First I built a Decision tree object which when fit on a data set splits the data to reduce the given loss function. Then a "forest" of these trees are created with additional features to randomize the data available to each tree, and ultimately the vote of each individual is accounted for before producing a single prediction.
 
-* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
+\* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
 
 
 
@@ -63,9 +63,19 @@ During my courses in Machine Learning I built a random forest regressor and clas
 For this project I combined google's apis with MTC data and a nueral net image classifier
 
 
-* Some of my projects were written in as part of academic and/or professional projects. As a result I cannot post this code publically, but I will share them with those who are interested on an individual basis. This is to respect the academic integrity of future classes and the privacy/property of my colleagues. 
 
-* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
+
+
+
+
+
+
+
+
+
+\* Some of my projects were written in as part of academic and/or professional projects. As a result I cannot post this code publically, but I will share them with those who are interested on an individual basis. This is to respect the academic integrity of future classes and the privacy/property of my colleagues. 
+
+\* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
 
 
 
