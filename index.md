@@ -14,7 +14,6 @@ You can find me a the links below:
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![](kjafshar_photo=100x20)
 
-<img src="./Kamron Afshar (1)" style="display: block; margin: auto;" />
+<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" />
 
