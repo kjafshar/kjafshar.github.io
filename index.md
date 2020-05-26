@@ -41,11 +41,27 @@ For this project I combined google's apis with MTC data and a nueral net image c
 
 <img align="left" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 10px 20px 10px"/>
 
-<h2> Building Image Classifier </h2>
+<h2> Municipal Code Crawler </h2>
 
 For this project I combined google's apis with MTC data and a nueral net image classifier
 
 
+<div style="clear:both;"></div>
+
+<img align="right" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
+
+<h2> Random Forest Classifier & Regressor </h2>
+
+For this project I combined google's apis with MTC data and a nueral net image classifier
+
+
+<div style="clear:both;"></div>
+
+<img align="left" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 10px 20px 10px"/>
+
+<h2> Kmeans Clustering </h2>
+
+For this project I combined google's apis with MTC data and a nueral net image classifier
 
 
 
