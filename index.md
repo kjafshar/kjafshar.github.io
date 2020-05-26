@@ -24,7 +24,7 @@ Click here for a link to my [resume](http://docs.google.com/document/d/1aUw-Ui0M
 
 <h1> Projects </h1>
 
-<img align="right" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
+<img align="right" src="/images/street_view.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
 
 <h2> Building Image Classifier </h2>
 
@@ -33,7 +33,7 @@ For this project I combined google's apis with MTC data and a nueral net image c
 
 <div style="clear:both;"></div>
 
-<img align="left" src="/images/street_view.jpg" width="35%" style="padding: 10px 10px 20px 10px"/>
+<img align="left" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 10px 20px 10px"/>
 
 <h2> Municipal Code Crawler </h2>
 
