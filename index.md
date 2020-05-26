@@ -28,4 +28,12 @@ You can find me a the links below:
 2. List
 
 
+## Projects
+
+<img align="right" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
+
+# Building Image Classifier
+
+For this project I combined google's apis with MTC data and a nueral net image classifier
+
 
