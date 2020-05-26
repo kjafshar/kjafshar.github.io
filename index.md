@@ -28,7 +28,6 @@ You can find me a the links below:
 1. Numbered
 2. List
 
-
 <h1> Projects </h1>
 
 <img align="right" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
