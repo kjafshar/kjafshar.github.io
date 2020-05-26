@@ -1,5 +1,5 @@
 ## About
-
+<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" width="200" />
 My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my Masters of Science in Data Science from the University of San Francisco and am seeking employment in the Data Science and Analytics fields.
 
 ## Resume
@@ -15,5 +15,5 @@ You can find me a the links below:
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" width="200" />
+<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" width="200" ALIGN=”top”/>
 
