@@ -1,7 +1,7 @@
 <h1> About </h1>
 
 <img align="left" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 10px 30px 10px"/>
-My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my Masters of Science in Data Science from the University of San Francisco and am seeking employment in the Data Science and alytics fields.
+My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my Masters of Science in Data Science from the University of San Francisco and am seeking employment in the Data Science and Analytics fields.
 
 
 <div style="clear:both;"></div>
