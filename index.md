@@ -19,14 +19,8 @@ My name is Kamron John Afshar and I am a growing data scientist. I've recently c
 
 <h1> Resume </h1>
 
-Click here for a link to my [resume](http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing)
+Click here for a link to my [resume](http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing), [LinkedIn](https://www.linkedin.com/in/kamron-afshar-b8108490/), and [github](https://github.com/kjafshar)
 
-You can find me a the links below:
-- [LinkedIn](https://www.linkedin.com/in/kamron-afshar-b8108490/)
-- [github](https://github.com/kjafshar)
-
-1. Numbered
-2. List
 
 <h1> Projects </h1>
 
@@ -54,7 +48,10 @@ Check out the code [here](https://github.com/kjafshar/scraping_muni_codes)
 
 <h2> Random Forest Classifier & Regressor </h2>
 
-For this project I combined google's apis with MTC data and a nueral net image classifier
+During my courses in Machine Learning I built a random forest regressor and classifier using numpy and object oriented python. First I built a Decision tree object which when fit on a data set splits the data to reduce the given loss function. Then a "forest" of these trees are created with additional features to randomize the data available to each tree, and ultimately the vote of each individual is accounted for before producing a single prediction.
+
+* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
+
 
 
 <div style="clear:both;"></div>
@@ -64,6 +61,11 @@ For this project I combined google's apis with MTC data and a nueral net image c
 <h2> Kmeans Clustering </h2>
 
 For this project I combined google's apis with MTC data and a nueral net image classifier
+
+
+* Some of my projects were written in as part of academic and/or professional projects. As a result I cannot post this code publically, but I will share them with those who are interested on an individual basis. This is to respect the academic integrity of future classes and the privacy/property of my colleagues. 
+
+* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
 
 
 
