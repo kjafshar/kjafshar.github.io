@@ -44,7 +44,7 @@ Check out the code [here](https://github.com/kjafshar/scraping_muni_codes)
 
 <div style="clear:both;"></div>
 
-<img align="right" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
+<img align="right" src="/images/ran_for.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
 
 <h2> Random Forest Classifier & Regressor </h2>
 
