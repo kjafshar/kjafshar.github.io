@@ -87,5 +87,3 @@ For this project I combined google's apis with MTC data and a nueral net image c
 
 
 
-
-
