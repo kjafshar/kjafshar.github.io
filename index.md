@@ -15,5 +15,5 @@ You can find me a the links below:
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" />
+<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" width="200" />
 
