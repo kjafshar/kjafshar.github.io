@@ -37,3 +37,13 @@ You can find me a the links below:
 For this project I combined google's apis with MTC data and a nueral net image classifier
 
 
+
+
+
+
+
+
+
+
+
+
