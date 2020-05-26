@@ -43,7 +43,9 @@ For this project I combined google's apis with MTC data and a nueral net image c
 
 <h2> Municipal Code Crawler </h2>
 
-For this project I combined google's apis with MTC data and a nueral net image classifier
+As part of my work at MTC we developed a crawler which gathers the municipal code documents of approximately 100 municipalities around the San Francisco Bay Area. These documents are stored in a redshift database using code from MTC's tool kit, and new version of the documents are crawled and stored on a regular basis.
+
+Check out the code [here](https://github.com/kjafshar/scraping_muni_codes)
 
 
 <div style="clear:both;"></div>
