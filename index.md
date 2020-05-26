@@ -7,14 +7,13 @@ My name is Kamron John Afshar and I am a growing data scientist. I've recently c
 Click here for a link to my [resume](http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing)
 
 You can find me a the links below:
-- LinkedIn
-- github
+- ![LinkedIn](https://www.linkedin.com/in/kamron-afshar-b8108490/)
+- ![github](https://github.com/kjafshar)
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![](./Kamron Afshar (1) =100x20)
 
-[Link](url) and <img src="./Kamron Afshar (1)" style="display: block; margin: auto;" />
-```
+<img src="./images/kjafshar_photo.jpg" style="display: block; margin: auto;" />
+
