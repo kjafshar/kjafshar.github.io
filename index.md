@@ -67,11 +67,7 @@ For this project I combined google's apis with MTC data and a nueral net image c
 
 
 
-
-
-
-
-
+<div style="clear:both;"></div>
 
 \* Some of my projects were written in as part of academic and/or professional projects. As a result I cannot post this code publically, but I will share them with those who are interested on an individual basis. This is to respect the academic integrity of future classes and the privacy/property of my colleagues. 
 
