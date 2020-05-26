@@ -4,6 +4,15 @@ My name is Kamron John Afshar and I am a growing data scientist. I've recently c
 
 <div style="clear:both;"></div>
 
+
+
+
+
+
+
+
+
+
 ## Resume
 
 Click here for a link to my [resume](http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing)
