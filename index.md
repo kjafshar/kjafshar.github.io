@@ -14,7 +14,7 @@ You can find me a the links below:
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![](./Kamron Afshar (1) =100x20)
+![](./kjafshar_photo=100x20)
 
 [Link](url) and <img src="./Kamron Afshar (1)" style="display: block; margin: auto;" />
 ```
