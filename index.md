@@ -19,7 +19,7 @@ My name is Kamron John Afshar and I am a growing data scientist. I've recently c
 
 <h1> Resume </h1>
 
-Click here for a link to my [resume](http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing), [LinkedIn](https://www.linkedin.com/in/kamron-afshar-b8108490/), and [github](https://github.com/kjafshar)
+Click here for a link to my <a href="http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing" target="_blank">resume</a>[resume](http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing), [LinkedIn](https://www.linkedin.com/in/kamron-afshar-b8108490/), and [github](https://github.com/kjafshar)
 
 
 <h1> Projects </h1>
