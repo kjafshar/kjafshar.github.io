@@ -19,7 +19,7 @@ My name is Kamron John Afshar and I am a growing data scientist. I've recently c
 
 <h1> Resume </h1>
 
-Click here for a link to my <a href="http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing" target="_blank">resume</a>, [LinkedIn](https://www.linkedin.com/in/kamron-afshar-b8108490/), and [github](https://github.com/kjafshar)
+Click here for a link to my <a href="http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?usp=sharing" target="_blank">resume</a>, <a href="https://www.linkedin.com/in/kamron-afshar-b8108490/" target="_blank">LinkedIn</a>, and <a href="https://github.com/kjafshar" target="_blank">github</a>
 
 
 <h1> Projects </h1>
@@ -39,7 +39,7 @@ For this project I combined google's apis with MTC data and a nueral net image c
 
 As part of my work at MTC we developed a crawler which gathers the municipal code documents of approximately 100 municipalities around the San Francisco Bay Area. These documents are stored in a redshift database using code from MTC's tool kit, and new version of the documents are crawled and stored on a regular basis.
 
-Check out the code [here](https://github.com/kjafshar/scraping_muni_codes)
+Check out the code <a href="https://github.com/kjafshar/scraping_muni_codes" target="_blank">here</a>
 
 
 <div style="clear:both;"></div>
