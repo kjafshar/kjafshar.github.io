@@ -56,7 +56,7 @@ During my courses in Machine Learning I built a random forest regressor and clas
 
 <div style="clear:both;"></div>
 
-<img align="left" src="/images/kjafshar_photo.jpg" width="35%" style="padding: 10px 10px 20px 10px"/>
+<img align="left" src="/images/cluster_img.jpg" width="35%" style="padding: 10px 10px 20px 10px"/>
 
 <h2> Kmeans Clustering </h2>
 
