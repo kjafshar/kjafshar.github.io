@@ -85,3 +85,4 @@ Using numpy I developed a kmeans clustering system which is can be used in a num
 
 
 
+
