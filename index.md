@@ -76,7 +76,8 @@ li a:hover:not(.active) {
 
   During my courses in Machine Learning I built a random forest regressor and classifier using numpy and object oriented python. First I built a Decision tree object which when fit on a data set splits the data to reduce the given loss function. Then a "forest" of these trees are created with additional features to randomize the data available to each tree, and ultimately the vote of each individual is accounted for before producing a single prediction.
 
-  \* This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
+  This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
+  
 
 
 
@@ -86,8 +87,8 @@ li a:hover:not(.active) {
 
 
 
-  <img align="left" src="/images/cluster.jpg" width="45%" style="padding: 10px 10px 10px 10px"/>
 
+  <img align="left" src="/images/cluster.jpg" width="45%" style="padding: 10px 10px 10px 10px"/>
   <h2> Kmeans Clustering </h2>
 
   Using numpy I developed a kmeans clustering system which is can be used in a number of ways. These included of course grouping together coordinates in n dimmensions, compressing images into lower numbers of colors, and using clusters of points to assign labels.
