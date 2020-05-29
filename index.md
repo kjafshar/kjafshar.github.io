@@ -44,7 +44,7 @@ li a:hover:not(.active) {
 
 
 
-<div style="margin-left:23%;padding:1px 16px;height:1000px;">
+<div style="margin-left:23%;height:1000px;">
 
 
 
