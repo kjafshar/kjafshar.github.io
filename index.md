@@ -4,7 +4,7 @@
   My name is Kamron John Afshar and I am a growing data scientist. I've recently complete my Masters of Science in Data         Science from the University of San Francisco and am seeking employment in the Data Science and Analytics fields.
   <h1> Resume </h1>
   Click here for a link to my <a href="http://docs.google.com/document/d/1aUw-Ui0MzIUnfyqpYezpSOLHpyp3JgxuV7ZBIVrVvuA/edit?     usp=sharing" target="_blank">resume</a>, <a href="https://www.linkedin.com/in/kamron-afshar-b8108490/"            target="_blank">LinkedIn</a>, and <a href="https://github.com/kjafshar" target="_blank">github</a>
- </div>
+</div>
 
 
 
