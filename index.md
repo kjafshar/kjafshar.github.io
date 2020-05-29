@@ -78,8 +78,8 @@ li a:hover:not(.active) {
 <br>
   This code is only available privately via request. If you are interested in reviewing the code please reach out to me at kjafshar@gmail.com
 
-  <br>
-  <div style="clear:both;"></div>
+<br>
+<div style="clear:both;"></div>
 
 
 
