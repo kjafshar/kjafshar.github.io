@@ -63,8 +63,7 @@ Using numpy I developed a kmeans clustering system which is can be used in a num
 
 \* Some of my projects were written in as part of academic and/or professional projects. As a result I cannot post this code publically, but I will share them with those who are interested on an individual basis. This is to respect the academic integrity of future classes and the privacy/property of my colleagues.
 
-<!DOCTYPE html>
-<html>
+
 <head>
 <style>
 body {
@@ -122,9 +121,6 @@ li a:hover:not(.active) {
   <p>Some text..</p>
   <p>Some text..</p>
 </div>
-
-</body>
-</html>
 
 
 
