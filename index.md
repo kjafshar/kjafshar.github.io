@@ -50,7 +50,7 @@ li a:hover:not(.active) {
 
   <h1> Projects </h1>
 
-  <img align="right" src="/images/street_view.jpg" width="50%" style="padding: 10px 20px 10px 10px"/>
+  <img align="right" src="/images/street_view.jpg" width="50%" style="padding: 10px 10px 10px 10px"/>
 
   <h2> Building Image Classifier </h2>
 
@@ -59,7 +59,7 @@ li a:hover:not(.active) {
 
   <div style="clear:both;"></div>
 
-  <img align="left" src="/images/zoning_map.jpg" width="50%" style="padding: 10px 10px 20px 10px"/>
+  <img align="left" src="/images/zoning_map.jpg" width="50%" style="padding: 10px 10px 10px 10px"/>
 
   <h2> Municipal Code Crawler </h2>
 
@@ -70,7 +70,7 @@ li a:hover:not(.active) {
 
   <div style="clear:both;"></div>
 
-  <img align="right" src="/images/ran_for.jpg" width="35%" style="padding: 10px 20px 10px 10px"/>
+  <img align="right" src="/images/ran_for.jpg" width="35%" style="padding: 10px 10px 10px 10px"/>
 
   <h2> Random Forest Classifier & Regressor </h2>
 
