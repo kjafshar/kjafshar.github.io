@@ -7,6 +7,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  height: 100%;
   width: 20%;
   background-color: #f1f1f1;
   position: fixed;
