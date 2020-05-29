@@ -7,10 +7,9 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 10%;
+  width: 20%;
   background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
+  position: free;
   overflow: auto;
 }
 
@@ -44,7 +43,7 @@ li a:hover:not(.active) {
 
 
 
-<div style="margin-left:35%;padding:1px 16px;height:1000px;">
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
 
 
 
