@@ -48,8 +48,6 @@ li a:hover:not(.active) {
 
 
 
-  <h1> Projects </h1>
-
   <img align="right" src="/images/street_view.jpg" width="50%" style="padding: 10px 10px 10px 10px"/>
 
   <h2> Building Image Classifier </h2>
