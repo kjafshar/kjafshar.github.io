@@ -8,7 +8,7 @@ ul {
   margin: 0;
   padding: 0;
   height: 100%;
-  width: 15%;
+  width: 10%;
   background-color: #f1f1f1;
   position: fixed;
   overflow: auto;
@@ -44,7 +44,7 @@ li a:hover:not(.active) {
 
 
 
-<div style="margin-left:30%;padding:1px 16px;height:1000px;">
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
 
 
 
