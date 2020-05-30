@@ -26,6 +26,15 @@ li a.active {
   color: white;
 }
 
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
 li a:hover:not(.active) {
   background-color: #555;
   color: white;
